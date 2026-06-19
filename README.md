@@ -1,1 +1,1 @@
-This is a new local git repository
+Changing line 1 of README.md on feature branch
